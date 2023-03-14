@@ -1,0 +1,41 @@
+
+man-front.png
+size: 94, 50
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+男性人物动画_05
+  rotate: true
+  xy: 2, 2
+  size: 46, 50
+  orig: 46, 54
+  offset: 0, 0
+  index: -1
+男性人物动画_11
+  rotate: true
+  xy: 54, 2
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+男性人物动画_19
+  rotate: true
+  xy: 54, 16
+  size: 32, 28
+  orig: 32, 30
+  offset: 0, 2
+  index: -1
+男性人物动画_25
+  rotate: false
+  xy: 74, 4
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+男性人物动画_28
+  rotate: false
+  xy: 84, 38
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1

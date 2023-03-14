@@ -1,0 +1,41 @@
+
+man-side.png
+size: 82, 58
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+男性人物动画_08
+  rotate: false
+  xy: 2, 6
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+男性人物动画_11
+  rotate: false
+  xy: 52, 8
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+男性人物动画_21
+  rotate: false
+  xy: 52, 28
+  size: 28, 28
+  orig: 28, 30
+  offset: 0, 2
+  index: -1
+男性人物动画_25
+  rotate: false
+  xy: 66, 2
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+男性人物动画_31
+  rotate: false
+  xy: 66, 14
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
